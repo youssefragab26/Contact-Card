@@ -18,6 +18,7 @@ body{
     margin-top: 75px;
     margin-left: 420px;
     margin-right:420px;
+    /* max-width: 350px; */
     background-color: #ff6f3c;
     border-radius: 18px;
 }
