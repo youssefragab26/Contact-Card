@@ -1,9 +1,15 @@
+:root:{
+    --Background-color:#155263;
+    --Card-color:#ff6f3c;
+    --Font-color:#1e1f22;
+}
+
 body{
     background-color: #155263;
     color: #1e1f22;
-    /*font-family: Arial, Helvetica, sans-serif;*/
     font-family: "Kalam";
 }
+
 .A1{
     align-items: center;
     text-align: center;
