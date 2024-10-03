@@ -34,8 +34,8 @@ body{
     border: 3px solid #1e1f22;
     border-radius: 32px;
     cursor: pointer;
-    width: 250px ;
-    height: 50px ;
+    width: 250px auto;
+    height: 50px aut;
 
 }
 .B1:hover{background-color: #ffc93c;}
